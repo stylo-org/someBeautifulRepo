@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/raxraj/someBeautifulRepo/issues"
   },
-  "homepage": "https://github.com/raxraj/someBeautifulRepo#readme"
+  "homepage": "https://github.com/raxraj/someBeautifulRepo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
