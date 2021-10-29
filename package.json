@@ -1,0 +1,22 @@
+{
+  "name": "somebeautifulrepo",
+  "version": "1.0.0",
+  "description": "SOme Repo of Beautiful Codelings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raxraj/someBeautifulRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raxraj/someBeautifulRepo/issues"
+  },
+  "homepage": "https://github.com/raxraj/someBeautifulRepo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
